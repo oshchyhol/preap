@@ -1,8 +1,0 @@
-{
-	"url": "https://github.com/equinusocio/preap",
-	"description":"Preap is a dark interface and syntax theme for Sublime Text.",
-	"sublime_text": "3",
-	"dependencies": [],
-	"platforms": ["*"],
-	"version": "1.0.0"
-}
