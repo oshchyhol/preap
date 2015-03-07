@@ -1,0 +1,8 @@
+{
+	"url": "https://github.com/equinusocio/preap",
+	"description":"Predawn is a dark interface and syntax theme for Sublime Text.",
+	"sublime_text": "*",
+	"dependencies": [],
+	"platforms": ["*"],
+	"version": "1.0.0"
+}

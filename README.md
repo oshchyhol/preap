@@ -1,6 +1,6 @@
 # Preap dark theme
 
-### A dark interface and syntax theme for [Sublime Text](http://www.sublimetext.com) based on.
+### A dark interface and syntax theme for [Sublime Text](http://www.sublimetext.com).
 
 ## About
 
@@ -42,7 +42,7 @@ To activate the theme, add or replace your current theme settings with the code 
 	}
 
 
-*** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***
+*** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREAP ***
 
 ## Tab Height Size Options
 
@@ -62,8 +62,8 @@ OR
 
 You can change the height of the Find/Replace inputs by adding the following to preferences file:
 
-
 	"findreplace_small": true
+
 
 ![image](screenshots/find-replace.jpg)
 
@@ -113,6 +113,7 @@ These are just a few of my other favorite options for Sublime Text:
 
 	// Typography
 
+	"font_face": "Consolas",
 	"font_size": 14,
 	"font_options": ["no_round"],
 	"highlight_line": true,

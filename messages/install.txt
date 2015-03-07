@@ -26,14 +26,14 @@ ____________________________________________________________________________
 
 
 *****************************************************************************
-MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN
+MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREAP
 *****************************************************************************
 
 	|     |     |     |     |     |     |
 	|     |     |     |     |     |     |
 	|     |     |     |     |     |     |
 	|     |     |     |     |     |     |
- \|/   \|/   \|/   \|/   \|/   \|/   \|/
+   \|/   \|/   \|/   \|/   \|/   \|/   \|/
 
 
 ======================================
@@ -44,7 +44,7 @@ Also, some other settings you can add:
 
 // Typography
 
-	"font_face": "Source Code Pro",
+	"font_face": "Consolas",
 	"font_size": 14,
 	"font_options": ["no_round"],
 	"highlight_line": true,
