@@ -81,7 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a5d1d1ff</string>
+				<string>#4fefe4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -628,18 +628,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f36781ff</string>
+				<string>#f36781</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LESS variables</string>
+			<string>LESS mixins</string>
 			<key>scope</key>
 			<string>entity.other.less.mixin</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f36781ff</string>
+				<string>#4FEFE4</string>
 			</dict>
 		</dict>
 		<dict>
