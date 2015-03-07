@@ -90,7 +90,6 @@ for example:
 
 First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Preferences` > `Settings - More` > `Syntax Specific - User`  in the menu bar.
 
-![syntax-specific](screenshots/syntax-specific.png)
 
 #### Add to your current settings or replace with the following:
 
