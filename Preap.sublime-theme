@@ -454,16 +454,6 @@
     },
     {
         "class": "sidebar_tree",
-        "settings": ["sidebar_xsmall"],
-        "row_padding": [20, 2]
-    },
-    {
-        "class": "sidebar_tree",
-        "settings": ["sidebar_small"],
-        "row_padding": [20, 3]
-    },
-    {
-        "class": "sidebar_tree",
         "settings": ["sidebar_medium"],
         "row_padding": [20, 4]
     },

@@ -71,7 +71,7 @@ After enabling the smaller size, you'll need to drag the height of the Find/Repl
 
 ## Sidebar Size Options
 
-You can change the vertical spacing of the sidebar by changing `default` to `xsmall`, `small`, `medium`, `large`, `xlarge`:
+You can change the vertical spacing of the sidebar by changing `default` to `large`, `xlarge`:
 
 
 	"sidebar_default": true
@@ -86,7 +86,7 @@ for example:
 ## Markdown Settings
 ![markdown](screenshots/markdown.jpg)
 
-#### To enable Predawn for Markdown
+#### To enable Preap for Markdown
 
 First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Preferences` > `Settings - More` > `Syntax Specific - User`  in the menu bar.
 
@@ -95,7 +95,7 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 #### Add to your current settings or replace with the following:
 
 	{
-		"color_scheme": "Packages/Predawn/preap-markdown.tmTheme",
+		"color_scheme": "Packages/Preap/preap-markdown.tmTheme",
 		"draw_centered": true, // Centers the column in the window
 		"draw_indent_guides": false,
 		"font_size": 15,
@@ -103,9 +103,6 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 		"word_wrap": true,
 		"wrap_width": 80  // Sets the # of characters per line
 	}
-
-## Interface and File Icons
-The source files for the interface icons are located in the [jamiewilson/predawn-icons](https://github.com/jamiewilson/predawn-icons).
 
 
 ## A few of my favorite options
