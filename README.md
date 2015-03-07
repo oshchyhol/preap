@@ -1,6 +1,4 @@
-# Preap dark theme
-
-### A dark interface and syntax theme for [Sublime Text](http://www.sublimetext.com).
+# Preap Dark Theme
 
 ## About
 
