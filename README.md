@@ -37,8 +37,8 @@ Open your user settings file `preferences.sublime-settings` as shown below:
 To activate the theme, add or replace your current theme settings with the code below.
 
 	{
-		"theme": "Preap.sublime-theme",
-		"color_scheme": "Packages/Preap/Schemes/Preap.tmTheme",
+		"theme": "preap.sublime-theme",
+		"color_scheme": "Packages/Preap/Schemes/preap.tmTheme",
 	}
 
 
@@ -95,7 +95,7 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 #### Add to your current settings or replace with the following:
 
 	{
-		"color_scheme": "Packages/Predawn/predawn-markdown.tmTheme",
+		"color_scheme": "Packages/Predawn/preap-markdown.tmTheme",
 		"draw_centered": true, // Centers the column in the window
 		"draw_indent_guides": false,
 		"font_size": 15,
