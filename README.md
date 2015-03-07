@@ -141,7 +141,7 @@ These are just a few of my other favorite options for Sublime Text:
 
 Also, I highly recommend these Sublime Text packages:
 
-* [Sublime-CSS3](https://github.com/i-akhmadullin/Sublime-CSS3)  
+* [Emmet](https://github.com/sergeche/emmet-sublime)  
 * [GitGutter](https://github.com/jisaacks/GitGutter)  
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)  
  
