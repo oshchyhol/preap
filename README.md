@@ -22,7 +22,7 @@ For easy installation, install with [Package Control](https://sublime.wbond.net/
 
 You can clone the repo to your `Packages` folder. Just make sure the repo folder is named `Preap`.
 
-Of course, you can always [download zip](https://github.com/equinusocio/preap/archive/master.zip) and install manually, too.
+Of course, you can always [download latest release](https://github.com/equinusocio/preap/releases/latest) and install manually, too. After download, extract zip and rename the folder to "Preap" then copy it to the `Packages`folder ( `Sublime Text` > `Preferences` > `Browse packages...` )
 
 ## Activating the Theme
 
