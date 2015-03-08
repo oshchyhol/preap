@@ -21,15 +21,17 @@
 				<key>lineHighlight</key>
 				<string>#232323</string>
 				<key>selection</key>
-				<string>#2C2C2C</string>
+				<string>#1E3538</string>
+				<key>selectionForeground</key>
+                <string>#54949c</string>
 				<key>inactiveSelection</key>
-				<string>#3C3C3C</string>
+				<string>#1B3134</string>
 				<key>findHighlight</key>
 				<string>#24dbec</string>
 				<key>gutterForeground</key>
 				<string>#4C4C4C</string>
 				<key>guide</key>
-				<string>#363636</string>
+				<string>#3c3c3c</string>
 				<key>activeGuide</key>
 				<string>#484848</string>
 				<key>minimapBorder</key>
