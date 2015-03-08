@@ -565,6 +565,30 @@
         "layer0.opacity": 1.0,
         "layer1.opacity": 0
     },
+       // Loader on folder loading
+    {
+        "class": "icon_folder_loading",
+        "layer0.texture":
+        {
+            "keyframes":
+            [
+                "Preap/assets/spinner/spinner.png",
+                "Preap/assets/spinner/spinner1.png",
+                "Preap/assets/spinner/spinner2.png",
+                "Preap/assets/spinner/spinner3.png",
+                "Preap/assets/spinner/spinner4.png",
+                "Preap/assets/spinner/spinner5.png",
+                "Preap/assets/spinner/spinner6.png",
+                "Preap/assets/spinner/spinner7.png",
+
+            ],
+            "loop": true,
+            "frame_time": 0.040,
+        },
+
+        "layer0.opacity": 1.0,
+        "content_margin": [6, 6]
+    },
 
         // Sidebar file close hover
 
