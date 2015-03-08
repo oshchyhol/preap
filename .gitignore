@@ -6,3 +6,4 @@
 *.cache
 *.sublime-project
 *.sublime-workspace
+/Icon
