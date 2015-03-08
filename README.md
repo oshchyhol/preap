@@ -151,6 +151,6 @@ Also, I highly recommend these Sublime Text packages:
 
 * [Emmet](https://github.com/sergeche/emmet-sublime)  
 * [GitGutter](https://github.com/jisaacks/GitGutter)  
-* [SFTP](https://github.com/jisaacks/GitGutter)  
+* [SFTP](http://wbond.net/sublime_packages/sftp)  
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)  
  
