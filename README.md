@@ -36,7 +36,7 @@ To activate the theme, add or replace your current theme settings with the code 
 
 	{
 		"theme": "preap.sublime-theme",
-		"color_scheme": "Packages/Preap/Schemes/preap.tmTheme",
+		"color_scheme": "Packages/preap/Schemes/preap.tmTheme",
 	}
 
 
