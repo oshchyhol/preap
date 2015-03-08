@@ -8,25 +8,27 @@ Preap is a minimal Sublime Text theme and a syntax color scheme. It was original
 
 [View a larger screenshot](https://raw.githubusercontent.com/equinusocio/preap/master/screenshots/general.jpg)
 
+## Requirements
 
-## Installation for [Sublime Text](http://www.sublimetext.com)
+**Sublime Text 3 (recent build)**
+File icons are only supported for **[Dev Builds 3062](http://www.sublimetext.com/3dev)+**._
 
-<!-- ###Recommended
-For easy installation, install with [Package Control](https://sublime.wbond.net/docs).
+## Installation
+
+### Recommended
+For easy installation, install with [Package Control](https://packagecontrol.io).
 
 1. <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (OS X) <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Win/Linux)
 2. Type `Package Control: Install Package`
 3. Search `preap`
 
-**Other Methods** -->
+**Other Methods**
 
-You can clone the repo to your `Packages` folder. Just make sure the repo folder is named `Preap`.
+You can clone the repo to your `Packages` folder. Just make sure the repo folder is named `preap`.
 
-Of course, you can always [download latest release](https://github.com/equinusocio/preap/releases/latest) and install manually, too. After download, extract zip and rename the folder to "Preap" then copy it to the `Packages`folder ( `Sublime Text` > `Preferences` > `Browse packages...` )
+Of course, you can always [download latest release](https://github.com/equinusocio/preap/releases/latest) and install manually, too. After download, extract zip and rename the folder to "preap" then copy it to the `Packages`folder ( `Sublime Text` > `Preferences` > `Browse packages...` )
 
 ## Activating the Theme
-
-_Note: File icons are only supported for **[DEV BUILDS 3062](http://www.sublimetext.com/3dev)+**._
 
 Open your user settings file `preferences.sublime-settings` as shown below:
 
@@ -42,44 +44,6 @@ To activate the theme, add or replace your current theme settings with the code 
 
 *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREAP ***
 
-## Tab Height Size Options
-
-You can change the height of the file tabs by adding either to your preferences file:
-
-
-	"tabs_small": true
-
-OR
-
-	"tabs_medium": true
-
-
-![image](screenshots/tabs.jpg)
-
-## Find & Replace Small Size Option
-
-You can change the height of the Find/Replace inputs by adding the following to preferences file:
-
-	"findreplace_small": true
-
-
-![image](screenshots/find-replace.jpg)
-
-After enabling the smaller size, you'll need to drag the height of the Find/Replace panel up and down to adjust it to the new dimemension.
-
-## Sidebar Size Options
-
-You can change the vertical spacing of the sidebar by changing `default` to `large`, `xlarge`:
-
-
-	"sidebar_default": true
-
-for example:
-
-	"sidebar_large": true
-
-
-![image](screenshots/sidebar.jpg)
 
 ## Markdown Settings
 ![markdown](screenshots/markdown.jpg)
@@ -100,6 +64,50 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 		"word_wrap": true,
 		"wrap_width": 80  // Sets the # of characters per line
 	}
+
+## Theme specific settings
+This theme allow specific settings, see below:
+
+#### Tab Height Size Options
+
+![image](screenshots/tabs.jpg)
+
+You can change the height of the file tabs by adding either to your preferences file:
+
+
+	"tabs_small": true
+
+OR
+
+	"tabs_medium": true
+
+
+
+
+#### Find & Replace Small Size Option
+
+![image](screenshots/find-replace.jpg)
+
+You can change the height of the Find/Replace inputs by adding the following to preferences file:
+
+	"findreplace_small": true
+
+
+After enabling the smaller size, you'll need to drag the height of the Find/Replace panel up and down to adjust it to the new dimemension.
+
+#### Sidebar Size Options
+
+![image](screenshots/sidebar.jpg)
+
+You can change the vertical spacing of the sidebar by changing `default` to `large`, `xlarge`:
+
+
+	"sidebar_default": true
+
+for example:
+
+	"sidebar_large": true
+
 
 
 ## A few of my favorite options
@@ -137,11 +145,12 @@ These are just a few of my other favorite options for Sublime Text:
 	"scroll_speed": 5.0,
 	"show_full_path": false,
 
-## And some recommendations
+## Some recommendations
 
 Also, I highly recommend these Sublime Text packages:
 
 * [Emmet](https://github.com/sergeche/emmet-sublime)  
 * [GitGutter](https://github.com/jisaacks/GitGutter)  
+* [SFTP](https://github.com/jisaacks/GitGutter)  
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)  
  
