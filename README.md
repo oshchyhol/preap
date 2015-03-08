@@ -18,7 +18,7 @@ File icons are only supported for **[Dev Builds 3062](http://www.sublimetext.com
 ### Recommended
 For easy installation, install with [Package Control](https://packagecontrol.io).
 
-1. Press <kbd>Cmd / Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
+1. Press <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on OS X or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Windows/Linux
 2. Type `Install Package`
 3. Search `preap`
 
