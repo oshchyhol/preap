@@ -8,7 +8,7 @@ Preap is a minimal Sublime Text theme and a syntax color scheme. It was original
 
 [View a larger screenshot](https://raw.githubusercontent.com/equinusocio/preap/master/screenshots/general.jpg)
 
-## Requirements
+## Requirements
 
 **Sublime Text 3 (recent build)**
 File icons are only supported for **[Dev Builds 3062](http://www.sublimetext.com/3dev)+**._
