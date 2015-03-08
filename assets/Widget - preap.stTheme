@@ -7,7 +7,7 @@
 	<key>comment</key>
 	<string>Preap, a subtle Sublime Text Theme</string>
 	<key>name</key>
-	<string>Predawn</string>
+	<string>Preap</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -22,7 +22,9 @@
 				<key>invisibles</key>
 				<string>#24dbec</string>
 				<key>selection</key>
-				<string>#2C2C2C</string>
+				<string>#1E3538</string>
+				<key>selectionForeground</key>
+                <string>#54949c</string>
 			</dict>
 		</dict>
 	</array>
