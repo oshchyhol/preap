@@ -24,9 +24,9 @@ For easy installation, install with [Package Control](https://packagecontrol.io)
 
 **Other Methods**
 
-You can clone the repo to your `Packages` folder. Just make sure the repo folder is named `preap`.
+You can clone the repo to your `Packages` folder. Just make sure the repo folder is named `Preap`.
 
-Of course, you can always [download latest release](https://github.com/equinusocio/preap/releases/latest) and install manually, too. After download, extract zip and rename the folder to "preap" then copy it to the `Packages`folder ( `Sublime Text` > `Preferences` > `Browse packages...` )
+Of course, you can always [download latest release](https://github.com/equinusocio/preap/releases/latest) and install manually, too. After download, extract zip and rename the folder to "Preap" then copy it to the `Packages`folder ( `Sublime Text` > `Preferences` > `Browse packages...` )
 
 ## Activating the Theme
 
@@ -38,7 +38,7 @@ To activate the theme, add or replace your current theme settings with the code 
 
 	{
 		"theme": "preap.sublime-theme",
-		"color_scheme": "Packages/preap/Schemes/preap.tmTheme",
+		"color_scheme": "Packages/Preap/Schemes/preap.tmTheme",
 	}
 
 
@@ -56,7 +56,7 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 #### Add to your current settings or replace with the following:
 
 	{
-		"color_scheme": "Packages/preap/Schemes/preap-markdown.tmTheme",
+		"color_scheme": "Packages/Preap/Schemes/preap-markdown.tmTheme",
 		"draw_centered": true, // Centers the column in the window
 		"draw_indent_guides": false,
 		"font_size": 15,
