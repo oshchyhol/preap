@@ -56,7 +56,7 @@ First, **open a markdown(.md) file**, then navigate to `Sublime Text` > `Prefere
 #### Add to your current settings or replace with the following:
 
 	{
-		"color_scheme": "Packages/preap/preap-markdown.tmTheme",
+		"color_scheme": "Packages/preap/Schemes/preap-markdown.tmTheme",
 		"draw_centered": true, // Centers the column in the window
 		"draw_indent_guides": false,
 		"font_size": 15,
